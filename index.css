@@ -1,0 +1,135 @@
+.aboutInfo {
+    color: rgb(136, 129, 129);
+    font-size: 25px;
+    text-align: left;
+    max-width: 500px;
+}
+
+.aboutInner {
+    color: rgb(136, 129, 129);
+    font-size: 25px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 5%;
+    text-align: left;
+    align-self: center;
+    line-height: normal normal 250px;
+}
+
+.aboutTable {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    color: #f88c08;
+    font-size: 45px;
+    width: 65%;
+}
+
+body {
+    margin: 0;
+    background: #181616;
+    font-family: "lora-regular", serif;
+}
+
+.credit {
+    padding-top: 15px;
+    background: black;
+    padding-bottom: 15px;
+    text-align: center;
+    color: #5e5e5e;
+    font-size: 16px;
+}
+
+.download {
+    background-color: rgb(37, 128, 219);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    justify-content: center;
+    transition-duration: 0.5s;
+}
+
+.download:hover {
+    background-color: rgb(21, 78, 134);
+}
+
+.description {
+    color: rgb(136, 129, 129);
+    font-size: 25px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 5%;
+    text-align: center;
+    align-self: center;
+}
+
+#header {
+    width: 100%;
+    height: 100%;
+    color: #ffffff;
+    font-size: 100px;
+    padding: 17% 0;
+    text-align: center;
+    background: url("images/Graphic41.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+html {
+    scroll-behavior: smooth;
+   }
+
+.imageBox {
+    width: 525px;
+    height: max-content;
+    margin:15px;
+    padding:2px;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    max-width: 100%;
+    max-height: 100%
+}
+
+.link {
+    color: rgb(70, 120, 228);
+    transition-duration: 0.5s;
+}
+
+.link:hover {
+    color: rgb(38, 0, 177);
+}
+
+
+#projectTable {
+    text-align: left;
+    background: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: "opensans-regular", sans-serif;
+    color: #747474;
+    width: 100%;
+    border-spacing: 0 50px;
+    padding: 20px;
+}
+
+.subtitle {
+    padding-top: 15px;
+    text-align: center;
+    color: #b8b8b8;
+    font-size: 28px;
+}
+
+.Title {
+    padding-top:35px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: #f88c08;
+    font-size: 45px;
+}
+
