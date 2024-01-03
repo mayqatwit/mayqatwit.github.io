@@ -107,7 +107,7 @@ html {
 
 #projectTable {
     text-align: left;
-    background: rgb(255, 255, 255);
+    background: #f1f1f1;
     font-size: 25px;
     font-family: "opensans-regular", sans-serif;
     color: #747474;
@@ -135,7 +135,6 @@ html {
     #header {
         padding: 50% 0;
         font-size: 60px;
-        color:black;
     }
     
     #down {
