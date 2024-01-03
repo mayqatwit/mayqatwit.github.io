@@ -7,7 +7,7 @@
 
 .aboutInner {
     color: rgb(136, 129, 129);
-    font-size: 25px;
+    font-size: 1.2rem;
     padding-left: 20%;
     padding-right: 20%;
     padding-bottom: 5%;
@@ -68,7 +68,7 @@ body {
 #header {
     /* height: 100%; */
     color: #ffffff;
-    font-size: 100px;
+    font-size: 5rem;
     padding: 17% 0;
     text-align: center;
     background: url("images/Graphic41.png") no-repeat center center fixed; 
@@ -141,6 +141,12 @@ html {
         padding:25%;
     }
 
+    body {
+        padding-left: 15%;
+        padding-right: 15%;
+        width: 100%;
+    }
+
     .Title {
         padding-top: 20px;
         font-size: 35px;
@@ -150,12 +156,4 @@ html {
         font-size: 20px;
     }
 
-    .aboutInner,
-    .description,
-    .aboutTable,
-    .imageBox {
-        padding-left: 5%;
-        padding-right: 5%;
-        width: 100%;
-    }
 }
